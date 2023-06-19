@@ -1,0 +1,11 @@
+.contenido-market {
+    font: 5em "Oswald", sans-serif;
+    text-align: center;
+    align-items: center;
+    color: rgb(8, 8, 8);
+    background-image: linear-gradient(to bottom right, rgba(139, 74, 199, 0.471), rgba(156, 81, 226, 0.722));
+    height: 50rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

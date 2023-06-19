@@ -1,9 +1,10 @@
 import React from 'react'
+import '../Style/Market.css';
 
 const Market = () => {
     return (
-        <div>
-            <h2>Tienda</h2>
+        <div className='contenido-market'>
+            Tienda
         </div>
     )
 }
