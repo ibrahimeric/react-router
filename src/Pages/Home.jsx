@@ -1,9 +1,12 @@
 import React from 'react'
+import '../Style/Home.css'
 
 const Home = () => {
     return (
         <div>
-            <h1>Este es el componente del inicio</h1>
+            <main className='contenido-main'>
+                Home
+            </main>
         </div>
     )
 }
